@@ -6,7 +6,7 @@
     },
     "dependencies": {
         "jest": "~27.0.5",
-        "express": "~4.17.1"
+        "express": "~4.21.0"
     },
     "jest": {
         "collectCoverage": true,
